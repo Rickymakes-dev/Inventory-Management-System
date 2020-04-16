@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="WGU_C482_PA_RickyChau_v1.jnlp">
+  <information>
+    <title>WGU_C482_PA_RickyChau_v1</title>
+    <vendor>rickychau</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="WGU_C482_PA_RickyChau_v1.jar" size="38320" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="wgu_c482_pa_rickychau_v1.WGU_C482_PA_RickyChau_v1"  name="WGU_C482_PA_RickyChau_v1" />
+  <update check="always"/>
+</jnlp>
